@@ -164,7 +164,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 
 ![Wire Buttons under panel cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/37.jpg "Wire Buttons under panel cont...")
 
-##### Connecting the buttons to a USB 5v power source (with 2amps or higher rating) make sure they all illuminate correctly
+##### Connecting the buttons to a USB 5v power source (with 2 amp or higher rating) make sure they all illuminate correctly
 
 ![Test Button Illumination](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/38.jpg "Test Button Illumination")
 ![Test Button Illumination cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/39.jpg "Test Button Illumination cont...")
@@ -191,7 +191,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Mount XBox360 Internal Controllers](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/52.jpg "Mount XBox360 Internal Controllers")
 ![Mount XBox360 Internal Controllers cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/55.jpg "Mount XBox360 Internal Controllers cont...")
 
-##### Cut a hole in the back for the wall power to enter and for the 2 controller USB cables to extrude from to connect to your XBox360 console.
+##### Cut a hole in the back for the wall power to enter and for the 2 controller USB cables / HDMI cable to extrude from to connect to your XBox360 console.
 
 ![Wire the Power in the back](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/56.jpg "Wire the Power in the back")
 
@@ -201,13 +201,13 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Apply Decals to top Bar cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/58.jpg "Apply Decals to top Bar cont...")
 ![Cut Speaker and Amp through Decals](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/59.jpg "Cut Speaker and Amp through Decals")
 
-#### Make sure the top bar has the wiring it needs.  1) Power for the small amp.  2) Sound input coming from the HDMI audio extractor.  3) 5v power for the buttons (black and red wires) 4) Button leads (green and yellow wires)
+#### Make sure the top bar has the wiring it needs.  1) Power for the small amp.  2) Sound output coming from the HDMI audio extractor.  3) 5v power for the buttons (black and red wires) 4) Button leads (green and yellow wires)
 
 ![Wire Top Bar](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/60.jpg "Wire Top Bar")
 ![Attach Top Bar](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/61.jpg "Attach Top Bar")
 ![Attach Top Bar cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/62.jpg "Attach Top Bar cont...")
 
-##### I've used simple glue to glue the TMold to the edges of the arcade (cutting off the T part on the button)  If you do have a nice router you could cut the slots in the wood to have the TMolding fit correctly.
+##### Attaching the Green TMolding along the edges for a proper arcade cabinet look - I've used simple glue to glue the TMold to the edges of the arcade (cutting off the T part on the bottom)  If you do have a nice router you could cut the slots in the wood to have the TMolding fit correctly.
 
 ![Install Green TMolding](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/30.jpg "Install Green TMolding")
 
