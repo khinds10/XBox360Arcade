@@ -44,6 +44,10 @@
 
 ![Fightstick](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Parts/Fightstick.png "Fightstick")
 
+#### XBox360 Controller (x2)
+
+![XBox360 Controller (x2)](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Parts/OldSkool.jpg "XBox360 Controller (x2)")
+
 #### Power Strip
 
 ![Power Strip](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Parts/PowerStrip.png "Power Strip")
@@ -105,7 +109,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Build Frame cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/4.jpg "Build Frame cont.")
 ![Build Frame cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/5.jpg "Build Frame cont...")
 
-##### Make sure the monitor fits correctly accross the build
+##### Make sure the monitor fits correctly across the build
 
 ![Measure Monitor to fit](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/6.jpg "Measure Monitor to fit")
 ![Measure Monitor to fit cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/7.jpg "Measure Monitor to fit cont...")
@@ -122,7 +126,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Drill Button Holes cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/12.jpg "Drill Button Holes cont...")
 ![Drill Button Holes cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/13.jpg "Drill Button Holes cont...")
 
-##### With the particle board, cut the side panels with a triangluar slant, however leaving the top in a square shape to contain the "top bar" where the amp / speakers will go
+##### With the particle board, cut the side panels with a triangular slant, however leaving the top in a square shape to contain the "top bar" where the amp / speakers will go
 
 ![Cut side panels from Particle Board](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/14.jpg "Cut side panels from Particle Board")
 ![Assemble top from 1x4 planks](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/15.jpg "Assemble top from 1x4 planks")
@@ -149,7 +153,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 
 ![Wiring Diagram](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/Schematic.png "Wiring Diagram")
 
-##### Prepare all the illuminated buttons for mouting in the cabinet.  Make sure all the wires are color coded for ease of construction, illumination lights as black and red.  Bound all the wires together so that the entire set of buttons receieves power for illumination.
+##### Prepare all the illuminated buttons for mounting in the cabinet.  Make sure all the wires are color coded for ease of construction, illumination lights as black and red.  Bound all the wires together so that the entire set of buttons receives power for illumination.
 
 ![Prepare Illuminated Buttons for mounting](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/31.jpg "Prepare Illuminated Buttons for mounting")
 
@@ -158,7 +162,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Observe Internals of the Fightstick](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/32.jpg "Observe Internals of the Fightstick")
 ![Observe Internals of the Fightstick cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/33.jpg "Observe Internals of the Fightstick cont...")
 
-##### Note the circuit boards inside specify conviently which connectors go to the A/X/Y/B buttons and so on for our guide when wiring the cabinet.
+##### Note the circuit boards inside specify conveniently which connectors go to the A/X/Y/B buttons and so on for our guide when wiring the cabinet.
 
 ![Observe Internals of the Fightstick cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/34.jpg "Observe Internals of the Fightstick cont...")
 
@@ -181,7 +185,7 @@ Soldered a "home" button connection directly to the contacts of where the home b
 ![Place Decals along the side](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/48.jpg "Place Decals along the side")
 ![Place Decals along the side cont...](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/49.jpg "Place Decals along the side cont...")
 
-##### Mount the interal components and power source for final assembly.
+##### Mount the internal components and power source for final assembly.
 
 ![Mount internal Components](https://raw.githubusercontent.com/khinds10/XBox360Arcade/master/Construction/50.jpg "Mount internal Components")
 
